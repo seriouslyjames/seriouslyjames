@@ -3,7 +3,7 @@
 I'm James, an aspiring Data Analyst in Sydney, and this is my learning journey.
 
 - Self taught SQL and Tableau
-- Starting to dabble in Python
+- Starting to dabble in Python and R
 
 Here's some of the things I've been working on:
 
@@ -11,10 +11,13 @@ Here's some of the things I've been working on:
 - https://github.com/seriouslyjames/Cyclistic-Bikes-Case-Study
 - https://public.tableau.com/app/profile/james.lam7007
 
-
 📫 How to reach me:
 
 - https://www.linkedin.com/in/jameslamhong/
+
+Completed Courses:
+
+- Google Data Analytics
 
 <!--
 **seriouslyjames/seriouslyjames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
