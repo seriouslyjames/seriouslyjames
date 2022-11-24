@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 
 
 I'm James, an aspiring Data Analyst in Sydney, and this is my learning journey.
 
