@@ -3,7 +3,7 @@
 I'm James, an aspiring Data Analyst in Sydney, and this is my learning journey.
 
 - Self taught SQL and Tableau
-- Starting to dabble in Python and R
+- Starting to dabble in Python, PowerBI, and R
 
 Here's some of the things I've been working on:
 
