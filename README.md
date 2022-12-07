@@ -5,7 +5,7 @@ I'm James, an aspiring Data Analyst in Sydney, and this is my learning journey.
 - Self taught SQL and Tableau
 - Starting to dabble in Python, PowerBI, and R
 
-Here's some of the things I've been working on:
+Here are some of the things I've been working on:
 
 - https://github.com/seriouslyjames/8_Weeks_SQL_Challenge
 - https://github.com/seriouslyjames/Cyclistic-Bikes-Case-Study
